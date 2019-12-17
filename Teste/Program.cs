@@ -6,6 +6,7 @@ namespace Teste {
             Console.WriteLine("Ola Mundo");
             Console.WriteLine("Como você está hoje?");
             Console.WriteLine("Tenha um bom dia");
+            Console.WriteLine("Tchau");
         }
     }
 }
